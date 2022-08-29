@@ -1,3 +1,5 @@
+%Referenced from: https://nl.mathworks.com/matlabcentral/fileexchange/71083-waitbar-for-parfor
+
 classdef parfor_wait < handle
     %This class creates a waitbar or message when using for or parfor.
     %Required Input:
