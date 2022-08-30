@@ -1,1 +1,0 @@
-el otro punto fundamental que ha de contener este texto es prever expresamente la exclusion de los vehiculos de coleccion del campo de aplicacion 
